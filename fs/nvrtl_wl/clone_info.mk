@@ -1,0 +1,1 @@
+clones/n6/clone_info.mk
